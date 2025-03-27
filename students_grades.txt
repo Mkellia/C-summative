@@ -1,0 +1,7 @@
+Full Name, Data Structures in C, Mobile App Dev, Programming in C#, Machine Learning, Blockchain
+eke , 45, 56, 67, 78, 90
+dedededee , 67, 78, 89, 80, 90
+yeyeyeyey, 56, 78, 89, 90, 78
+hrhrhrhrhr, 89, 89, 78, 79, 80
+hfhfhfh , 78, 79, 70, 89, 90
+ththth, 56, 67, 78, 79, 89
